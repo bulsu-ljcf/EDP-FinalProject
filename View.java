@@ -7,6 +7,7 @@
 //  No SQL, no business logic — only JavaFX layout and wiring.
 // =============================================================
 
+
 import javafx.application.Application;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.transformation.FilteredList;
