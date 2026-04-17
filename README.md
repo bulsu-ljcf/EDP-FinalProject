@@ -132,7 +132,25 @@ The SQL file also includes **6 database views** for reporting:
 
 ## Screenshots
 
-> *(Add screenshots of the following screens here)*
+![alt text](<Screenshots/Screenshot 2026-04-04 201618.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 201018.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 201007.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200958.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200901.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200725.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200654.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200641.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200630.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200619.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200609.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200558.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200529.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200522.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200513.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200501.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200449.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 200418.png>) 
+![alt text](<Screenshots/Screenshot 2026-04-04 195218.png>)
 
 | Screen | Description |
 |---|---|
@@ -150,11 +168,12 @@ The SQL file also includes **6 database views** for reporting:
 
 ## Contributors
 
-| Name | Role |
+| Name |
 |---|---|
-| *(Your Name Here)* | Full-Stack Developer (Java / JavaFX / MySQL) |
-| *(Team Member)* | Database Design & SQL |
-| *(Team Member)* | UI Design & JavaFX Layouts |
+| *(Lyzander Jeptah C. Fabian)* 
+| *(Benedict M. Mendoza)* 
+| *(John Edrick S. Maigue)*
+| *(Ivan Matthew D. Sumilang)* 
 
 ---
 
